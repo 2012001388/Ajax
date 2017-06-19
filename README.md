@@ -5,14 +5,14 @@ But before running it install the virtual environment.
 http://virtualenvwrapper.readthedocs.io/en/latest/install.html is a nice article on how to install virtual environment.
 Further if you want to explore more about flask follow this link http://flask.pocoo.org/docs/0.12/quickstart/
 
-After installing the virtualenv and to run the application first create a new virtualenv and activate it . Type the following command in the terminal.
+After installing the virtualenv and to run the application first create a new virtualenv and activate it . Type the following command in the terminal:
 
-virtualenv  Test  #or you can choose any other name 
+1. virtualenv  Test  #or you can choose any other name 
 
-source bin/activate 
+2. source bin/activate 
 
-finally run the file
+finally to run the file 
 
-python test.py
+1. python test.py
 
 
