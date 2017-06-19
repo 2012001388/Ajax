@@ -10,12 +10,15 @@ After installing the virtualenv and to run the application create a new virtuale
 virtualenv  Test  # or you can choose any other name 
 
 lets activate the virtualenv
+
 source bin/activate 
 
 lets intall flask
+
 pip install flask
 
 then run the file
+
 python test.py
 
 
